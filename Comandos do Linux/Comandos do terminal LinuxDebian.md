@@ -8,7 +8,9 @@ Como no Linux não existe o diretório C:, usamos a pasta pessoal e dentro dela 
 
 
 
-![](/home/jade-lustosa/jaderror/workspace/projetoDIO-desafio-github/DIO_primeiro_desafio_GITHUB/Comandos do Linux/imagens-projeto/cd.png)
+![imagem do comando mudar diretorio](/home/jade-lustosa/jaderror/workspace/projetoDIO-desafio-github/DIO_primeiro_desafio_GITHUB/Comandos do Linux/imagens-projeto/cd.png)
+
+
 
 
 
@@ -16,7 +18,7 @@ Como no Linux não existe o diretório C:, usamos a pasta pessoal e dentro dela 
 
 Entrei no diretório e agora quero listar todas as pastas presentes nele. Eu digito o comando ls e aparecerá
 
-![](/home/jade-lustosa/jaderror/workspace/projetoDIO-desafio-github/DIO_primeiro_desafio_GITHUB/Comandos do Linux/imagens-projeto/ls.png)
+![imagem com os comandos de listar diretorios](/home/jade-lustosa/jaderror/workspace/projetoDIO-desafio-github/DIO_primeiro_desafio_GITHUB/Comandos do Linux/imagens-projeto/ls.png)
 
 
 
@@ -24,7 +26,7 @@ Entrei no diretório e agora quero listar todas as pastas presentes nele. Eu dig
 
 Dentro desse diretório irei criar uma outra pasta teste-projeto e depois irei listar novamente para mostrar a pasta criada
 
-![](/home/jade-lustosa/jaderror/workspace/projetoDIO-desafio-github/DIO_primeiro_desafio_GITHUB/Comandos do Linux/imagens-projeto/mkdir.png)
+![imagem com os comando para mudar de diretorio](/home/jade-lustosa/jaderror/workspace/projetoDIO-desafio-github/DIO_primeiro_desafio_GITHUB/Comandos do Linux/imagens-projeto/mkdir.png)
 
 
 
@@ -34,7 +36,7 @@ Dentro desse diretório irei criar uma outra pasta teste-projeto e depois irei l
 
 Para deletar a pasta que criei, eu digito o comando rmdir teste-projeto (só vou conseguir deletar essa pasta pois ela está vazia)
 
-![](/home/jade-lustosa/jaderror/workspace/projetoDIO-desafio-github/DIO_primeiro_desafio_GITHUB/Comandos do Linux/imagens-projeto/rm -r.png)
+![imagem com os comando para remover diretorios](/home/jade-lustosa/jaderror/workspace/projetoDIO-desafio-github/DIO_primeiro_desafio_GITHUB/Comandos do Linux/imagens-projeto/rm -r.png)
 
 
 
@@ -52,7 +54,7 @@ Last but not least...
 
 o comando para retroceder quantos diretórios quiser
 
-![](/home/jade-lustosa/jaderror/workspace/projetoDIO-desafio-github/DIO_primeiro_desafio_GITHUB/Comandos do Linux/imagens-projeto/cd ...png)
+![imagem com os comandos para retroceder diretorios](/home/jade-lustosa/jaderror/workspace/projetoDIO-desafio-github/DIO_primeiro_desafio_GITHUB/Comandos do Linux/imagens-projeto/cd ...png)
 
 
 
