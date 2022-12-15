@@ -8,7 +8,7 @@ Como no Linux não existe o diretório C:, usamos a pasta pessoal e dentro dela 
 
 
 
-![](/home/jade-lustosa/jaderror/workspace/projetoDIO-desafio-github/DIO_primeiro_desafio_GITHUB/Comandos do Linux/imagens-projeto/cd.png)
+![cd](https://user-images.githubusercontent.com/101298597/207749806-5d520ef0-c171-4c36-a771-b1d27e8138fb.png)
 
 
 
@@ -16,7 +16,7 @@ Como no Linux não existe o diretório C:, usamos a pasta pessoal e dentro dela 
 
 Entrei no diretório e agora quero listar todas as pastas presentes nele. Eu digito o comando ls e aparecerá
 
-![](/home/jade-lustosa/jaderror/workspace/projetoDIO-desafio-github/DIO_primeiro_desafio_GITHUB/Comandos do Linux/imagens-projeto/ls.png)
+![ls](https://user-images.githubusercontent.com/101298597/207749827-5f119d7e-3bf8-4bd3-8d14-cbc1679c9aa2.png)
 
 
 
@@ -24,8 +24,7 @@ Entrei no diretório e agora quero listar todas as pastas presentes nele. Eu dig
 
 Dentro desse diretório irei criar uma outra pasta teste-projeto e depois irei listar novamente para mostrar a pasta criada
 
-![](/home/jade-lustosa/jaderror/workspace/projetoDIO-desafio-github/DIO_primeiro_desafio_GITHUB/Comandos do Linux/imagens-projeto/mkdir.png)
-
+![mkdir](https://user-images.githubusercontent.com/101298597/207749832-ea507b51-3812-4ef4-9f1e-b09b4f3968f3.png)
 
 
 ## :arrow_right: <u>rm</u> : deleta o diretório e todas as pastas contidas no diretório em questão
@@ -34,7 +33,7 @@ Dentro desse diretório irei criar uma outra pasta teste-projeto e depois irei l
 
 Para deletar a pasta que criei, eu digito o comando rmdir teste-projeto (só vou conseguir deletar essa pasta pois ela está vazia)
 
-![](/home/jade-lustosa/jaderror/workspace/projetoDIO-desafio-github/DIO_primeiro_desafio_GITHUB/Comandos do Linux/imagens-projeto/rm -r.png)
+![rm -r](https://user-images.githubusercontent.com/101298597/207749833-a504f5c3-c942-406f-83ab-91fa7c46ca8b.png)
 
 
 
@@ -52,7 +51,7 @@ Last but not least...
 
 o comando para retroceder quantos diretórios quiser
 
-![](/home/jade-lustosa/jaderror/workspace/projetoDIO-desafio-github/DIO_primeiro_desafio_GITHUB/Comandos do Linux/imagens-projeto/cd ...png)
+![cd ](https://user-images.githubusercontent.com/101298597/207749823-ddef41eb-1006-413a-8225-4319e3c0070c.png)
 
 
 
